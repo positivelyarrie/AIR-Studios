@@ -21,7 +21,7 @@ window.portfolioConfig = {
     kicker: "Creative Developer + Digital Designer",
     title: "Immersive websites with a cinematic point of view.",
     copy:
-      "This starter lets you swap out every major piece of content from one file. Update the text, links, project list, and colors in config.js to make the site yours without rewriting the layout.",
+      "AIR Studios creates expressive digital experiences for brands that want clarity, atmosphere, and a stronger visual identity online.",
     primaryAction: {
       label: "See Projects",
       href: "#work"
@@ -40,11 +40,11 @@ window.portfolioConfig = {
   },
   about: {
     lead:
-      "I design and build portfolio experiences that feel tactile, paced, and unmistakably personal.",
+      "AIR Studios designs and builds websites that feel polished, story-driven, and unmistakably intentional.",
     details: [
-      "Use this template if you want a strong visual foundation without locking your content into hard-coded HTML.",
-      "Everything on the page is generated from config.js, including navigation, projects, service cards, and contact links.",
-      "You can keep it simple as a static site now and later migrate the same content structure into React, Next.js, or another stack."
+      "From portfolio launches to brand showcases, each site is shaped around motion, pacing, and a strong first impression.",
+      "The goal is simple: create digital spaces that feel elevated, modern, and easy to explore.",
+      "Every project is built to balance visual personality with clear structure, responsive performance, and thoughtful user flow."
     ]
   },
   projects: [
@@ -96,7 +96,7 @@ window.portfolioConfig = {
   contact: {
     title: "Let’s build something that feels unmistakably yours.",
     copy:
-      "Replace these links with your real channels. You can add or remove items freely in config.js.",
+      "For creative direction, website design, and custom digital builds, get in touch and let’s start the conversation.",
     links: [
       {
         label: "Email",
